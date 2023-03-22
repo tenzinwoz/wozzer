@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0101e655.css",
+    "main.js": "/static/js/main.e256e0cf.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/tenzin_resume.pdf": "/static/media/tenzin_resume.14b91c9a7b4eb789ed1b.pdf",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/logo.svg": "/static/media/logo.39f43daae6d436bc8a2b419a46868df1.svg",
+    "index.html": "/index.html",
+    "main.0101e655.css.map": "/static/css/main.0101e655.css.map",
+    "main.e256e0cf.js.map": "/static/js/main.e256e0cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0101e655.css",
+    "static/js/main.e256e0cf.js"
+  ]
+}
