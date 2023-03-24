@@ -1,0 +1,29 @@
+.experience {
+  .experience-tab-nav {
+    border-left: 1px solid #d9d9d9;
+    .company-name {
+      font-size: 16px;
+      font-weight: 300;
+      text-align: left;
+      color: #000;
+      &:hover {
+        background-color: $light_primary;
+        border-radius: 0px;
+      }
+      &.active {
+        background-color: $light_primary;
+        border-radius: 0px;
+        border-left: 3px solid $primary_color;
+      }
+    }
+  }
+  .tab-content {
+    .duration {
+      font-size: 15px;
+      color: $primary_color;
+    }
+    li {
+      font-size: 15px;
+    }
+  }
+}

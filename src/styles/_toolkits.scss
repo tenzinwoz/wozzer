@@ -1,0 +1,23 @@
+.toolkits {
+  .image-holder {
+    max-width: 100px;
+    margin: 0 auto;
+    img {
+      width: 100%;
+    }
+  }
+  .skill-box {
+    .img-holder {
+      max-width: 34px;
+      height: 39px;
+      img {
+        width: 100%;
+        height: 100%;
+      }
+    }
+    .familiar {
+      max-width: 90px;
+      height: 49px;
+    }
+  }
+}

@@ -1,0 +1,16 @@
+.contact {
+  .image-holder {
+    max-width: 150px;
+    margin: 0 auto;
+    img {
+      width: 100%;
+    }
+  }
+  .mail-to {
+    color: $primary_color;
+    font-size: 19px;
+    span {
+      margin-left: 10px;
+    }
+  }
+}

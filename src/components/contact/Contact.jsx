@@ -1,0 +1,37 @@
+import React from "react";
+import Contactimg from "../../assets/images/contact.svg";
+
+export default function Contact() {
+  return (
+    <div className="contact">
+      <div className="row">
+        <div className="col-12">
+          <h1 className="mb-3 content-heading">
+            <span className="yellow-text">05. </span> Get in touch
+          </h1>
+        </div>
+        <div className="col-lg-8 item-center-flex ">
+          <div>
+            <p>
+              <span className="sub-heading">My inbox is always open.</span>{" "}
+              <br />
+              Whether you have a question or just want to say hi, I’ll try my
+              best to get back to you!
+            </p>
+            <a href="mailto:tenzinwoeser15@gmail.com" className="mail-to">
+              tenzinwoeser15@gmail.com{" "}
+              <span>
+                <i class="bi bi-envelope"></i>
+              </span>
+            </a>
+          </div>
+        </div>
+        <div className="col-lg-4 item-center-flex ">
+          <div className="image-holder">
+            <img src={Contactimg} alt="Wozzer" />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

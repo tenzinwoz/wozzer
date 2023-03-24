@@ -1,0 +1,25 @@
+.projects {
+  .project-box {
+    background-color: #fff;
+    padding: 25px;
+    height: 100%;
+    .head {
+      display: flex;
+      justify-content: space-between;
+      .bi {
+        font-size: 25px;
+        color: $primary_color;
+        &.bi-github {
+          margin-right: 15px;
+        }
+      }
+    }
+    &:hover {
+      box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    }
+  }
+  .image-holder {
+    max-width: 150px;
+    margin: 0 auto;
+  }
+}
