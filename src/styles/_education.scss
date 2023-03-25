@@ -1,0 +1,17 @@
+.educations {
+  .edu-box {
+    background-color: #fff;
+    padding: 25px;
+
+    &:hover {
+      box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    }
+  }
+  .image-holder {
+    max-width: 170px;
+    margin: 0 auto;
+    img {
+      width: 100%;
+    }
+  }
+}

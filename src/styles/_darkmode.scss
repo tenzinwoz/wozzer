@@ -1,0 +1,24 @@
+.dark-mode {
+  background-color: #000;
+  color: #fff;
+  p,
+  a,
+  li {
+    color: #fff;
+  }
+  .sidebar,
+  .edu-box,
+  .project-box {
+    background-color: #424242;
+    .yellow-text {
+      color: $primary_color;
+    }
+  }
+  .experience {
+    .experience-tab-nav {
+      .company-name {
+        color: #fff;
+      }
+    }
+  }
+}

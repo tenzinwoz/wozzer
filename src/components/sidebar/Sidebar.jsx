@@ -6,32 +6,34 @@ export default function Sidebar() {
   return (
     <div className="sidebar">
       <div className="logo-holder">
-        <img src={Logo} alt="Wozzer" />
+        <a href="#intro">
+          <img src={Logo} alt="Wozzer" />
+        </a>
       </div>
       <div className="menu-list">
         <ul>
           <li className="menu-item">
-            <a href="">
+            <a href="#education">
               <span>01. </span>Education
             </a>
           </li>
           <li className="menu-item">
-            <a href="">
+            <a href="#experience">
               <span>02. </span>Experience
             </a>
           </li>
           <li className="menu-item">
-            <a href="">
+            <a href="#projects">
               <span>03. </span>Projects
             </a>
           </li>
           <li className="menu-item">
-            <a href="">
+            <a href="#toolkits">
               <span>04. </span>Toolkits
             </a>
           </li>
           <li className="menu-item">
-            <a href="">
+            <a href="#contact">
               <span>05. </span>Contact
             </a>
           </li>

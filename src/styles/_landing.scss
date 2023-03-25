@@ -2,12 +2,13 @@
   display: flex;
   height: 100vh;
   .sidebar {
-    width: 15%;
+    width: 20%;
     height: 100%;
   }
   .main {
     flex-grow: 1;
-    overflow-y: auto;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
     .content {
       padding: 0px 50px;
     }

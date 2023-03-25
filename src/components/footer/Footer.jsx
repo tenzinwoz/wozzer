@@ -8,7 +8,7 @@ export default function Footer() {
         <div>
           <img src={Eyestar} alt="Wozzer" />
         </div>
-        Design & Developed by Tenzin Woeser
+        Designed & Developed by Tenzin Woeser
       </div>
     </div>
   );
