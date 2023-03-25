@@ -1,17 +1,32 @@
 {
   "files": {
-    "main.css": "//tenzinwoz.github.io/wozzer/static/css/main.f65ad923.css",
-    "main.js": "//tenzinwoz.github.io/wozzer/static/js/main.d0e89549.js",
-    "static/media/bootstrap-icons.woff?": "//tenzinwoz.github.io/wozzer/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
-    "static/media/tenzin_resume.pdf": "//tenzinwoz.github.io/wozzer/static/media/tenzin_resume.14b91c9a7b4eb789ed1b.pdf",
-    "static/media/bootstrap-icons.woff2?": "//tenzinwoz.github.io/wozzer/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
-    "static/media/logo.svg": "//tenzinwoz.github.io/wozzer/static/media/logo.39f43daae6d436bc8a2b419a46868df1.svg",
-    "index.html": "//tenzinwoz.github.io/wozzer/index.html",
-    "main.f65ad923.css.map": "//tenzinwoz.github.io/wozzer/static/css/main.f65ad923.css.map",
-    "main.d0e89549.js.map": "//tenzinwoz.github.io/wozzer/static/js/main.d0e89549.js.map"
+    "main.css": "/wozzer/static/css/main.950cbd5c.css",
+    "main.js": "/wozzer/static/js/main.fd1d3c50.js",
+    "static/media/bootstrap-icons.woff?": "/wozzer/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/tenzin_resume.pdf": "/wozzer/static/media/tenzin_resume.14b91c9a7b4eb789ed1b.pdf",
+    "static/media/toolkits.svg": "/wozzer/static/media/toolkits.c36f753883980d9cd2c70951c978302d.svg",
+    "static/media/bootstrap-icons.woff2?": "/wozzer/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/contact.svg": "/wozzer/static/media/contact.c9c3f8236111306e2f9a6d9999df6df0.svg",
+    "static/media/eye_star.svg": "/wozzer/static/media/eye_star.aa0a73d7158f9b69844515efe774d507.svg",
+    "static/media/intro.svg": "/wozzer/static/media/intro.996509b8a8e7d0876b2599300391cfd6.svg",
+    "static/media/logo.svg": "/wozzer/static/media/logo.39f43daae6d436bc8a2b419a46868df1.svg",
+    "static/media/education.svg": "/wozzer/static/media/education.62127ce9d8bd019b18b1c21a661d6359.svg",
+    "static/media/projects.svg": "/wozzer/static/media/projects.d4463434b8704347632146dc55b4f8f1.svg",
+    "static/media/mongodb.svg": "/wozzer/static/media/mongodb.d89a6eebb2b81e487ffc99f69a3f6ea4.svg",
+    "static/media/express.svg": "/wozzer/static/media/express.75fff9be2f3b289ba7be1f43a08f7a4c.svg",
+    "static/media/node.svg": "/wozzer/static/media/node.e55572852ea7a91f785f9c3a2102771a.svg",
+    "static/media/scss.svg": "/wozzer/static/media/scss.8aa78a8393470431c8036541f0708bd7.svg",
+    "static/media/react.svg": "/wozzer/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/html.svg": "/wozzer/static/media/html.19615780c96001579c43664157889b4d.svg",
+    "static/media/bootstrap.svg": "/wozzer/static/media/bootstrap.997c463dca63c915b9a51f1caedef8e1.svg",
+    "static/media/css.svg": "/wozzer/static/media/css.d4c86ccdde87bcfe0330e1e5ffef3aa8.svg",
+    "index.html": "/wozzer/index.html",
+    "static/media/mui.svg": "/wozzer/static/media/mui.fd510ed8518b192069590b04e2e6348a.svg",
+    "main.950cbd5c.css.map": "/wozzer/static/css/main.950cbd5c.css.map",
+    "main.fd1d3c50.js.map": "/wozzer/static/js/main.fd1d3c50.js.map"
   },
   "entrypoints": [
-    "static/css/main.f65ad923.css",
-    "static/js/main.d0e89549.js"
+    "static/css/main.950cbd5c.css",
+    "static/js/main.fd1d3c50.js"
   ]
 }
