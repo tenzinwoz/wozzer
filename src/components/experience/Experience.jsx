@@ -11,7 +11,7 @@ export default function Experience() {
             </h1>
           </div>
           <div className="row">
-            <div class="d-flex align-items-start">
+            <div class="d-flex align-items-start mobile-nav-pills">
               <div
                 class="nav flex-column nav-pills me-3 experience-tab-nav"
                 id="v-pills-tab"

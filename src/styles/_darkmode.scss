@@ -14,11 +14,17 @@
       color: $primary_color;
     }
   }
+  .header {
+    background-color: #000;
+  }
   .experience {
     .experience-tab-nav {
       .company-name {
         color: #fff;
       }
     }
+  }
+  .mobile-menu {
+    background-color: #424242 !important;
   }
 }

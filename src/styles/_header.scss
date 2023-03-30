@@ -1,12 +1,27 @@
 .header {
   position: sticky;
-  padding: 15px;
   top: 0;
-  width: 100%;
-  height: 70px;
-  display: flex;
-  justify-content: end;
+  background-color: #fff;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  .container {
+    padding: 15px;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: end;
 
+    .logo-holder,
+    .menu-button {
+      display: none;
+    }
+  }
+}
+
+.mobile-menu {
+  display: none;
+}
+
+.theme-toggler {
   .checkbox {
     opacity: 0;
     position: absolute;

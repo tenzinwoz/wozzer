@@ -12,12 +12,12 @@ export default function Education() {
             </h1>
           </div>
           <div className="row">
-            <div className="col-lg-6  mb-3 item-center-flex ">
+            <div className="col-lg-6 col-md-6 col-sm-12  mb-3 item-center-flex ">
               <div className="image-holder">
                 <img src={Educationimg} alt="Educations" />
               </div>
             </div>
-            <div className="col-lg-6  mb-2">
+            <div className="col-lg-6 col-md-6 col-sm-12 mb-2">
               <div className="edu-box">
                 <div className="body">
                   <p className="sub-heading mb-1">
@@ -31,7 +31,7 @@ export default function Education() {
                 </div>
               </div>
             </div>
-            <div className="col-lg-6  mb-2">
+            <div className="col-lg-6  col-md-6 col-sm-12 mb-2">
               <div className="edu-box">
                 <div className="body">
                   <p className="sub-heading mb-1">

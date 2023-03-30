@@ -11,7 +11,7 @@ export default function Contact() {
               <span className="yellow-text">05. </span> Get in touch
             </h1>
           </div>
-          <div className="col-lg-8 item-center-flex ">
+          <div className="col-lg-8 col-md-9 item-center-flex ">
             <div>
               <p>
                 <span className="sub-heading">My inbox is always open.</span>{" "}
@@ -27,7 +27,7 @@ export default function Contact() {
               </a>
             </div>
           </div>
-          <div className="col-lg-4 item-center-flex ">
+          <div className="col-lg-4 col-md-3 item-center-flex ">
             <div className="image-holder">
               <img src={Contactimg} alt="Wozzer" />
             </div>

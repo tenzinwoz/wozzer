@@ -1,0 +1,138 @@
+@media only screen and (max-width: 820px) {
+  body {
+    p,
+    a,
+    li {
+      font-size: 15px;
+    }
+  }
+  h1 {
+    font-size: 25px;
+  }
+  .content-heading {
+    font-size: 25px;
+  }
+  .sub-heading {
+    font-size: 20px;
+  }
+
+  .sidebar {
+    display: none;
+  }
+  .root-wrapper {
+    .main {
+      .content {
+        padding: 0px 20px;
+      }
+    }
+  }
+  .h-80 {
+    height: auto;
+    padding: 100px 0px;
+  }
+
+  .header {
+    .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      height: auto;
+      padding: 0px;
+      .logo-holder {
+        display: block;
+        max-width: 60px;
+        img {
+          width: 100%;
+        }
+      }
+
+      .theme-toggler {
+        display: none;
+      }
+      .menu-button {
+        font-size: 35px;
+        display: block;
+      }
+    }
+  }
+  .mobile-menu {
+    &.active {
+      display: block;
+      position: absolute;
+      width: 30%;
+      height: 100vh;
+      background: #333;
+      top: 0px;
+      padding: 10px;
+      background-color: #fff;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+      right: 0;
+    }
+
+    .closing-div {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+      .close-button {
+        font-size: 30px;
+        color: $primary_color;
+      }
+    }
+
+    .menu-list {
+      ul {
+        list-style: none;
+        padding: 0px;
+        li {
+          margin-bottom: 20px;
+          a {
+            text-decoration: none;
+            display: block;
+            font-size: 20px;
+            font-weight: 300;
+            span {
+              color: $primary_color;
+              font-size: 25px;
+            }
+          }
+        }
+      }
+    }
+    .social-links {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+      .bi {
+        font-size: 22px;
+        color: $primary_color;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .root-wrapper {
+    .main {
+      .content {
+        padding: 0px;
+      }
+    }
+  }
+  .h-80 {
+    padding: 50px 0px;
+  }
+  .image-holder {
+    max-width: 100px !important;
+  }
+  .mobile-menu {
+    &.active {
+      width: 50%;
+    }
+  }
+  .mobile-nav-pills {
+    display: block !important;
+  }
+}

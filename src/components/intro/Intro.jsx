@@ -10,7 +10,7 @@ export default function Intro() {
               <span className="yellow-text">I'm </span> Tenzin Woeser
             </h1>
           </div>
-          <div className="col-lg-8">
+          <div className="col-lg-8 col-md-9">
             <div className="item-center-flex ">
               <p>
                 I am a Toronto-based front-end developer with a passion for
@@ -25,7 +25,7 @@ export default function Intro() {
               </p>
             </div>
           </div>
-          <div className="col-lg-4 item-center-flex ">
+          <div className="col-lg-4  col-md-3 item-center-flex ">
             <div className="image-holder">
               <img src={Introimg} alt="Wozzer" />
             </div>
