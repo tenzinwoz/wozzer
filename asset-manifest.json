@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wozzer/static/css/main.2fd6119a.css",
-    "main.js": "/wozzer/static/js/main.0a8810c0.js",
+    "main.css": "/wozzer/static/css/main.da85c4af.css",
+    "main.js": "/wozzer/static/js/main.0ca7b90e.js",
     "static/media/bootstrap-icons.woff?": "/wozzer/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/tenzin_resume.pdf": "/wozzer/static/media/tenzin_resume.14b91c9a7b4eb789ed1b.pdf",
     "static/media/toolkits.svg": "/wozzer/static/media/toolkits.c36f753883980d9cd2c70951c978302d.svg",
@@ -22,11 +22,11 @@
     "static/media/css.svg": "/wozzer/static/media/css.d4c86ccdde87bcfe0330e1e5ffef3aa8.svg",
     "index.html": "/wozzer/index.html",
     "static/media/mui.svg": "/wozzer/static/media/mui.fd510ed8518b192069590b04e2e6348a.svg",
-    "main.2fd6119a.css.map": "/wozzer/static/css/main.2fd6119a.css.map",
-    "main.0a8810c0.js.map": "/wozzer/static/js/main.0a8810c0.js.map"
+    "main.da85c4af.css.map": "/wozzer/static/css/main.da85c4af.css.map",
+    "main.0ca7b90e.js.map": "/wozzer/static/js/main.0ca7b90e.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fd6119a.css",
-    "static/js/main.0a8810c0.js"
+    "static/css/main.da85c4af.css",
+    "static/js/main.0ca7b90e.js"
   ]
 }
