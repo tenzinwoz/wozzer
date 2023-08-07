@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/wozzer/static/css/main.da85c4af.css",
-    "main.js": "/wozzer/static/js/main.0ca7b90e.js",
+    "main.js": "/wozzer/static/js/main.cadd805a.js",
     "static/media/bootstrap-icons.woff?": "/wozzer/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
-    "static/media/tenzin_resume.pdf": "/wozzer/static/media/tenzin_resume.14b91c9a7b4eb789ed1b.pdf",
     "static/media/toolkits.svg": "/wozzer/static/media/toolkits.c36f753883980d9cd2c70951c978302d.svg",
     "static/media/bootstrap-icons.woff2?": "/wozzer/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
     "static/media/contact.svg": "/wozzer/static/media/contact.c9c3f8236111306e2f9a6d9999df6df0.svg",
@@ -12,6 +11,7 @@
     "static/media/logo.svg": "/wozzer/static/media/logo.39f43daae6d436bc8a2b419a46868df1.svg",
     "static/media/education.svg": "/wozzer/static/media/education.62127ce9d8bd019b18b1c21a661d6359.svg",
     "static/media/projects.svg": "/wozzer/static/media/projects.d4463434b8704347632146dc55b4f8f1.svg",
+    "static/media/tenzin_resume.pdf": "/wozzer/static/media/tenzin_resume.1a315637e2813c853522.pdf",
     "static/media/mongodb.svg": "/wozzer/static/media/mongodb.d89a6eebb2b81e487ffc99f69a3f6ea4.svg",
     "static/media/express.svg": "/wozzer/static/media/express.75fff9be2f3b289ba7be1f43a08f7a4c.svg",
     "static/media/node.svg": "/wozzer/static/media/node.e55572852ea7a91f785f9c3a2102771a.svg",
@@ -23,10 +23,10 @@
     "index.html": "/wozzer/index.html",
     "static/media/mui.svg": "/wozzer/static/media/mui.fd510ed8518b192069590b04e2e6348a.svg",
     "main.da85c4af.css.map": "/wozzer/static/css/main.da85c4af.css.map",
-    "main.0ca7b90e.js.map": "/wozzer/static/js/main.0ca7b90e.js.map"
+    "main.cadd805a.js.map": "/wozzer/static/js/main.cadd805a.js.map"
   },
   "entrypoints": [
     "static/css/main.da85c4af.css",
-    "static/js/main.0ca7b90e.js"
+    "static/js/main.cadd805a.js"
   ]
 }
