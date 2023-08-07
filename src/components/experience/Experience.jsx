@@ -20,13 +20,25 @@ export default function Experience() {
               >
                 <button
                   class="nav-link active company-name "
+                  id="v-pills-rbc-tab"
+                  data-bs-toggle="pill"
+                  data-bs-target="#v-pills-rbc"
+                  type="button"
+                  role="tab"
+                  aria-controls="v-pills-rbc"
+                  aria-selected="true"
+                >
+                  RBC
+                </button>
+                <button
+                  class="nav-link company-name "
                   id="v-pills-neosoft-tab"
                   data-bs-toggle="pill"
                   data-bs-target="#v-pills-neosoft"
                   type="button"
                   role="tab"
                   aria-controls="v-pills-neosoft"
-                  aria-selected="true"
+                  aria-selected="false"
                 >
                   Neosoft
                 </button>
@@ -59,6 +71,30 @@ export default function Experience() {
               <div class="tab-content" id="v-pills-tabContent">
                 <div
                   class="tab-pane fade show active"
+                  id="v-pills-rbc"
+                  role="tabpanel"
+                  aria-labelledby="v-pills-rbc-tab"
+                  tabindex="0"
+                >
+                  <h2 className="sub-heading">Fullstack developer(coop)</h2>
+                  <p className="duration">
+                    May 2023 - Aug 2023 <span> (Canada)</span>
+                  </p>
+                  <ul>
+                    <li>
+                      Collaborated with digital accessibility team, tested
+                      internal websites/apps using accessibility tools like JAWS
+                      and Axe, and provided technical solutions.
+                    </li>
+                    <li>
+                      Developed full-stack application automating testing for
+                      enterprise websites/apps, providing accessibility scores,
+                      and assisting in identifying accessibility issues.
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  class="tab-pane fade"
                   id="v-pills-neosoft"
                   role="tabpanel"
                   aria-labelledby="v-pills-neosoft-tab"

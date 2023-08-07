@@ -21,6 +21,46 @@ export default function Projects() {
                   <div>
                     <a
                       target="_blank"
+                      href="https://github.com/tenzinwoz/a11y-client"
+                      rel="noreferrer"
+                    >
+                      <i class="bi bi-github"></i>
+                    </a>
+                    <a
+                      target="_blank"
+                      href="https://a11y-client.onrender.com/"
+                      rel="noreferrer"
+                    >
+                      <i class="bi bi-link-45deg"></i>
+                    </a>
+                  </div>
+                </div>
+                <div className="body">
+                  <p className="sub-heading">A11y Checker</p>
+                  <p>
+                    A11y Checker is a free and comprehensive online tool for
+                    assessing website accessibility. It offers detailed reports
+                    on identified issues, pinpointing their locations and
+                    suggesting effective resolutions.
+                  </p>
+                </div>
+                <div className="foot">
+                  <p className="yellow-text">
+                    NodeJs, ExpressJs, MongoDb, ReactJs, Puppeteer, Axe-core,
+                    Render, Docker
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-6 col-md-6 col-sm-12  mb-3">
+              <div className="project-box">
+                <div className="head mb-2">
+                  <div>
+                    <i class="bi bi-folder-symlink"></i>
+                  </div>
+                  <div>
+                    <a
+                      target="_blank"
                       href="https://github.com/tenzinwoz/DevConnectot"
                       rel="noreferrer"
                     >
