@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wozzer/static/css/main.da85c4af.css",
-    "main.js": "/wozzer/static/js/main.cadd805a.js",
+    "main.js": "/wozzer/static/js/main.73f0e326.js",
     "static/media/bootstrap-icons.woff?": "/wozzer/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/toolkits.svg": "/wozzer/static/media/toolkits.c36f753883980d9cd2c70951c978302d.svg",
     "static/media/bootstrap-icons.woff2?": "/wozzer/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
@@ -23,10 +23,10 @@
     "index.html": "/wozzer/index.html",
     "static/media/mui.svg": "/wozzer/static/media/mui.fd510ed8518b192069590b04e2e6348a.svg",
     "main.da85c4af.css.map": "/wozzer/static/css/main.da85c4af.css.map",
-    "main.cadd805a.js.map": "/wozzer/static/js/main.cadd805a.js.map"
+    "main.73f0e326.js.map": "/wozzer/static/js/main.73f0e326.js.map"
   },
   "entrypoints": [
     "static/css/main.da85c4af.css",
-    "static/js/main.cadd805a.js"
+    "static/js/main.73f0e326.js"
   ]
 }
