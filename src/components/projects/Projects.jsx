@@ -61,12 +61,18 @@ export default function Projects() {
                   <div>
                     <a
                       target="_blank"
-                      href="https://github.com/tenzinwoz/DevConnectot"
+                      href="https://github.com/tenzinwoz/devconnector-client"
                       rel="noreferrer"
                     >
                       <i class="bi bi-github"></i>
                     </a>
-                    {/* <i class="bi bi-link-45deg"></i> */}
+                    <a
+                      target="_blank"
+                      href="https://devconnector-client-yqrp.onrender.com/"
+                      rel="noreferrer"
+                    >
+                      <i class="bi bi-link-45deg"></i>
+                    </a>
                   </div>
                 </div>
                 <div className="body">
