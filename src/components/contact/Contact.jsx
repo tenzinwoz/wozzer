@@ -19,8 +19,8 @@ export default function Contact() {
                 Whether you have a question or just want to say hi, I’ll try my
                 best to get back to you!
               </p>
-              <a href="mailto:tenzinwoeser15@gmail.com" className="mail-to">
-                tenzinwoeser15@gmail.com{" "}
+              <a href="mailto:tenzin.woeser.work@gmail.com" className="mail-to">
+                tenzin.woeser.work@gmail.com{" "}
                 <span>
                   <i class="bi bi-envelope"></i>
                 </span>

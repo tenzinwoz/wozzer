@@ -21,7 +21,7 @@ export default function Education() {
               <div className="edu-box">
                 <div className="body">
                   <p className="sub-heading mb-1">
-                    Postgraduate in Web Development
+                    Post-graduate in Web Development
                   </p>
                   <p>at George Brown College.</p>
                   <p className="mb-0">

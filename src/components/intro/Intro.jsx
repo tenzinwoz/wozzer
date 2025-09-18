@@ -13,10 +13,11 @@ export default function Intro() {
           <div className="col-lg-8 col-md-9">
             <div className="item-center-flex ">
               <p>
-                I am a Toronto-based front-end developer with a passion for
-                technology and a love for dogs. I specialize in creating
-                visually stunning, user-friendly web experiences using the
-                latest front-end technologies.
+                I am a Toronto-based Full-stack developer with 5+ years of
+                experience, seamlessly transitioning between front-end and
+                back-end development. Passionate about solving business
+                challenges with scalable solutions. Growth-minded team player
+                committed to continuous learning and collaboration.
                 <br />
                 <br /> When I'm not coding, I enjoy spending time with my furry
                 companions and exploring the beautiful city of Toronto. My love

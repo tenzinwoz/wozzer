@@ -128,23 +128,30 @@ export default function Experience() {
                   aria-labelledby="v-pills-neosoft-tab"
                   tabIndex="0"
                 >
-                  <h2 className="sub-heading">React Developer</h2>
+                  <h2 className="sub-heading">Software Developer</h2>
                   <p className="duration">
-                    June 2021 - Sept 2022 <span> (India)</span>
+                    April 2018 - Sept 2022 <span> (India)</span>
                   </p>
                   <ul>
                     <li>
-                      Built reusable React UI components (50+), dashboards, and
-                      profile modules with Redux state management.
+                      Developed responsive, accessible, and high-performance
+                      user interfaces using React.js with modern hooks and
+                      functional components to deliver scalable features.
                     </li>
                     <li>
-                      Collaborated with cross-functional teams to standardize
-                      developer tooling, improving delivery speed and
-                      consistency.
+                      Implemented reusable UI components leveraging ShadCN and
+                      Tailwind CSS, improving design consistency and reducing
+                      development time across projects.
                     </li>
                     <li>
-                      Represented the company in developer interviews and
-                      mentorship for new hires.
+                      Managed complex application state by integrating Redux and
+                      Context API, ensuring predictable data flow and improved
+                      maintainability.
+                    </li>
+                    <li>
+                      Optimized front-end workflows with best practices in
+                      component architecture, code splitting, and performance
+                      tuning for seamless user experiences.
                     </li>
                   </ul>
                 </div>
