@@ -6,7 +6,7 @@
   li {
     color: #fff;
   }
-  .sidebar,
+  // .sidebar,
   .edu-box,
   .project-box {
     background-color: #424242;
@@ -26,5 +26,9 @@
   }
   .mobile-menu {
     background-color: #424242 !important;
+  }
+
+  .yellow-border-color {
+    border-color: $primary_color !important;
   }
 }

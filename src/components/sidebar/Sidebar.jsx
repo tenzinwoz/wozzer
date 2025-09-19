@@ -4,7 +4,7 @@ import Resume from "../../assets/files/tenzin_resume.pdf";
 
 export default function Sidebar() {
   return (
-    <div className="sidebar">
+    <div className="sidebar yellow-border-color">
       <div className="logo-holder">
         <a href="#intro">
           <img src={Logo} alt="Wozzer" />

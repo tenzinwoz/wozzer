@@ -12,7 +12,7 @@ export default function Header() {
 
   return (
     <Fragment>
-      <div className="header">
+      <div className="header yellow-border-color">
         <div className="container">
           <div class="theme-toggler">
             <input
